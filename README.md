@@ -12,7 +12,8 @@ Embedding `react` and `searchkit` in HTML
 For people don't need to know how to use node.js serve apps. If you want to use `react`
 with other languages, such as `go, python, php, etc.`
 
-> But if you want to follow my steps, you'll have to know how `node.js` works...
+> But if you want to know how I made this, you'll have to know `node.js` works...
+> If you only want to know how to use this, just use the [pre-built js](https://github.com/xros/react_jsx_to_js/tree/master/build)
 
 In fact **searchkit** is built on `react` and it can work as a nodejs app. Or we
 can run this app with plain JS, css, HTML. `react` uses native `javascript` and `jsx`.
