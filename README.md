@@ -2,13 +2,15 @@ Compiling searchkit.jsx to searchkit.js and less using node.js for development
 ========================
 
 Today I tried to embed `react` with ElasticSearch using searchkit.
-I am not a fan of `node.js`, so I try to find my way of making it work.
+`node.js` is good. But what if I wanted to run this app without `node.js`?!.
 
 
 Embedding `react` and `searchkit` in HTML
 --------------------------------
 For people don't need to know how to use node.js serve apps. If you want to use `react`
 with other languages, such as `go, python, php, etc.`
+
+> But if you want to follow my steps, you'll have to know how `node.js` works...
 
 In fact **searchkit** is built on `react` and it can work as a nodejs app. Or we
 can run this app with plain JS, css, HTML. `react` uses native `javascript` and `jsx`.
