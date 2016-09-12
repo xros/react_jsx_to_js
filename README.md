@@ -1,6 +1,8 @@
 Compiling searchkit.jsx to searchkit.js and less using node.js for development
 ========================
 
+[LICENSE: FTE v1](https://github.com/xros/license-FTE-v1)
+
 Today I tried to embed `react` with ElasticSearch using searchkit.
 `node.js` is good. But what if I wanted to run this app without `node.js`?!.
 
